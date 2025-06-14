@@ -11,7 +11,7 @@ python manage.py createsuperuser
 Run the development server:
 python manage.py runserver
 
---------------**------------
+--------------**-----------------
 admin pannel username & password:
 username:superadmin
 password:superadmin
@@ -23,7 +23,11 @@ Database:
 sqlite
 
 ------------------**-----------------
-If you are a new user,First you have to register the account and then you have to log in the account.After that you will able to see the blog and can comment below the blog post. 
+If you are a new user,First you have to register the account and then you have to log in the account.After that you will able to see the blog and can comment below
+the blog post. 
+
+
+------------------**---------------------------
 
 -------------------**-----------------------
 
