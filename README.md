@@ -24,7 +24,7 @@ sqlite
 
 ------------------**-----------------
 If you are a new user,First you have to register the account and then you have to log in the account.After that you will able to see the blog and can comment below
-the blog post and you can post a blog also. 
+the blog post and you can post a new blog also. 
 
 
 ------------------**---------------------------
